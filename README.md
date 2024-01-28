@@ -6,14 +6,15 @@ I've just finished a degree in math and am looking to join a great team to devel
 When I'm not hunched over a keyboard I love to play with my dog, go for karaoke car rides with my little sister,
 and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great place please let me know!)
 
-Well thanks for visiting, and I'd love to [connect](linkedin.com/in/kurt-russell-7731622b1)!
+Well thanks for visiting, and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-7731622b1/)!
 
 ## 🛠️ Tools Ive Used
 <div style="display: flex"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=40 height=40/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 height=40/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40 height=40/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40 height=40/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40 height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40 height=40/> 
