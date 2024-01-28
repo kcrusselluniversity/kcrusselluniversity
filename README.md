@@ -6,7 +6,7 @@ I've just finished a degree in math and am looking to join a great team to devel
 When I'm not hunched over a keyboard I love to play with my dog, go for karaoke car rides with my little sister,
 and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great place please let me know!)
 
-Well thanks for visiting, and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-7731622b1/)!
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-7731622b1/)!
 
 ## 🛠️ Tools Ive Used
 <div style="display: flex"> 
