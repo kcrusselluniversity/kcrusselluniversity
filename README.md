@@ -6,9 +6,9 @@ I've just finished a degree in math and am looking to join a great team to devel
 When I'm not hunched over my keyboard coding I love to play with my dog, go for karaoke car rides with my little sister,
 and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great place please let me know!)
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-7731622b1/)!
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-dev/)!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-russell-7731622b1/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-russell-dev/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:kcrussell.university@gmail.com)
 
 ## 🛠️ Tools Ive Used
