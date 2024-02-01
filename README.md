@@ -3,7 +3,7 @@ I'm Kurt Russell (*not the famous actor*) and I love to build things with code.
 
 I've just finished a degree in math and am looking to join a great team to develop high quality software.
 
-When I'm not hunched over my keyboard coding I love to play with my dog, go for karaoke car rides with my little sister,
+When I'm not coding I love to play with my dog, go for karaoke car rides with my little sister,
 and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great place please let me know!)
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-dev/)!
