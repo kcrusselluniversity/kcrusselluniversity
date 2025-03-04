@@ -6,7 +6,7 @@ I've just finished a degree in math and am looking to use my coding skills to pr
 When I'm not coding I love to play soccer with my dog, go for karaoke car rides with my little sister,
 and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great place please let me know!)
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-dev/)!
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-stem/)!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-russell-dev/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:kcrussell.university@gmail.com)
