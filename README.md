@@ -8,7 +8,7 @@ and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great p
 
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/kurt-russell-stem/)!
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-russell-dev/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-russell-stem/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:kcrussell.university@gmail.com)
 
 ## 🛠️ Tools Ive Used
