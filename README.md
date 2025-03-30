@@ -1,7 +1,7 @@
 ## Hello there 👋
 I'm Kurt Russell (*not the famous actor*) and I love to build things with code.
 
-I've just finished a degree in math and am looking to use my coding skills to provide real value to the world.
+I've finished a degree in math and am using my coding skills to provide real value to the world.
 
 When I'm not coding I love to play soccer with my dog, go for karaoke car rides with my little sister,
 and hunt for the best Thai Mussamun Curry in Australia (ps if you know a great place please let me know!)
